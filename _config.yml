@@ -38,4 +38,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: CS373 SWE Posts
+      tags: CS373
