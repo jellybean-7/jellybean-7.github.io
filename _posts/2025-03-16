@@ -1,0 +1,23 @@
+## CS 373 Spring 2025: Angelica Sharma Blog #9
+<img src="https://github.com/user-attachments/assets/5d65aa82-2f4e-458a-bd41-789a3e50e85c" alt="headshot" width="300" height="300">
+
+
+1. **What did you think of Paper 9. The Dependency Inversion Principle and what would make it better?**
+   - I thought the paper was useful. I really liked how it specifically defined what a 'good design' is and thought
+   that the material was extremely relevant, since programs with 'bad design' can be really deterimental to a company
+   or organization. To make it better, I think it would be cool if the paper had case studies that studied how different
+   organizations make their code's design 'good' and how that impacts the organization to prove its impact. 
+2. **Did you get help or give help on Exercise #7: project, Exercise #8: cross_join, Exercise #9: natural_join_, or the quizzes? If so, how?**
+   - I got help for all exercises, especially cross_join and natural_join_, since I felt like those were a bit harder than usual. 
+   For example, for natural_join_, I initially implemented the class using a temporary list as my data structure. Then, a TA
+   and Professor Downing both helped me realize how simplifying the code to a single line with a for loop is not only 
+   cleaner, but also much more efficient. 
+   - For the quizzes, I got help for the most recent one. On the last question, I almost selected (5, 0, 5) as an option
+   until a classmate told me that it wouldn't make sense to have an output if you cross_join a relation with 0 rows - 
+   especially since the total number of rows, mathematically, would be r*s = 5*0 = 0. 
+3. **What did you think of the following topics, and what would make them better: relational algebra, project, cross_join, theta_join, natural_join**'
+   - I thought the lecture covering relational algebra was a bit dry, since it was hard to really understand it without
+   examples. However, I really liked project, cross_join, theta_join, and natural_join. I just wish that we learned this material
+   earlier, since it would have been useful to use these in mySQL for our project. I also wish we learned these concepts
+   not just by implementing them in Python, but also seeing how it works in mySQL. 
+
